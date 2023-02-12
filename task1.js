@@ -24,4 +24,3 @@ function createLaptop(parameters, indicators) {
 }
 
 createLaptop(laptopKeys, laptopValues);
-console.log(laptop)
